@@ -2,7 +2,7 @@ $.getJSON("data.json", function(trip) {
     const name = trip[0]['client'];
     const tripTitle = trip[0]['trip'];
     const duration = parseInt(trip[trip.length - 1]['day']);
-    const endDate = addDay(new Date(trip[0]['start']), duration);
+    const endDate = addDay(new Date(trip[0]['start']), duration - 1);
     const tip = trip[0]['tip'];
 
     function obtainDate(d) {
