@@ -1,11 +1,12 @@
 $.getJSON("data.json", function(trip) {
     const name = trip[0]['client'];
+    const symbol = name.slice(-1) === 's' ? "'" : "'s";
     const tripTitle = trip[0]['trip'];
     const duration = parseInt(trip[trip.length - 1]['day']);
     const endDate = addDay(new Date(trip[0]['start']), duration - 1);
     const tip = trip[0]['tip'];
 
-    $('trip').text(`${name}'s Itinerary to ${tripTitle}`);
+    $('trip').text(`${name}${symbol} Itinerary to ${tripTitle}`);
     $('timeline').text(`${obtainDate(new Date(trip[0]['start']))} - ${obtainDate(endDate)}`);
     $('tip > p').text(`${tip}`);
 
