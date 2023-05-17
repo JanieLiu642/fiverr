@@ -1,4 +1,4 @@
-1. Download data.csv onto the computer and key in the GPT content into respective columns. Category: restaurant, hotel, transport, activity
+1. Download data.csv onto the computer and key in new content into respective columns. Category: restaurant, hotel, transport, activity
 
 2. Go to https://www.convertcsv.com/csv-to-json.htm to upload the data.csv and convert it into data.json. 
 
