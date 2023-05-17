@@ -4,6 +4,6 @@
 
 3. Sign in and get control of this project holder.
 
-4. Delete the old data.json from this project folder and upload the new data.json file by clicking Add file.
+4. Delete the old data.json from this project folder. Click Add file to upload the new data.json file.
 
 5. Wait for 5 minutes and open https://janieliu642.github.io/fiverr. Ctrl + P to print the page into pdf.
