@@ -2,17 +2,18 @@ $.getJSON("data.json", function(trip) {
     const name = trip[0]['client'];
     const symbol = name.slice(-1) === 's' ? "'" : "'s";
     const tripTitle = trip[0]['trip'];
+    const startDate = trip[0]['start'];
     const duration = parseInt(trip[trip.length - 1]['day']);
-    const endDate = addDay(new Date(trip[0]['start']), duration - 1);
+    const endDate = addDay(new Date(startDate), duration - 1);
     const tip = trip[0]['tip'];
 
     $('trip').text(`${name}${symbol} Itinerary to ${tripTitle}`);
-    $('timeline').text(`${obtainDate(new Date(trip[0]['start']))} - ${obtainDate(endDate)}`);
+    $('timeline').text(`${obtainDate(new Date(startDate))} - ${obtainDate(endDate)}`);
     $('tip > p').text(`${tip}`);
 
     let main = '';
     for (let i = 0; i < duration; i++) {
-        const currentDate = addDay(new Date(trip[0]['start']), i);
+        const currentDate = addDay(new Date(startDate), i);
         const dayTitle = trip.find(rec => rec['day'] === i + 1)['title'];
         const html = `<day class="row-align">
                     <date class="row-align column-align">
