@@ -1,222 +1,92 @@
 [
-    {
-        "client": "Elaine",
-        "trip": "San Diego",
-        "tip": "You can use the San Diego Metropolitan Transit System (MTS) buses and trolleys along with Uber for more convenience. Enjoy your stay in San Diego!",
-        "start": "5/16/2023",
-        "day": 1,
-        "title": "Arrival & Explore Around Best Western Island Palms",
-        "category": "hotel",
-        "description": "Check into Best Western Island Palms"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 1,
-        "title": "Arrival & Explore Around Best Western Island Palms",
-        "category": "activity",
-        "description": "Walk along the Shelter Island Shoreline Park"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 1,
-        "title": "Arrival & Explore Around Best Western Island Palms",
-        "category": "activity",
-        "description": "Explore the Cabrillo National Monument (great views, tidepools, and Point Loma Lighthouse)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 1,
-        "title": "Arrival & Explore Around Best Western Island Palms",
-        "category": "restaurant",
-        "description": "Lunch: Point Loma Seafoods (fresh seafood and sandwiches)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 1,
-        "title": "Arrival & Explore Around Best Western Island Palms",
-        "category": "restaurant",
-        "description": "Dinner: C Level (offers a great view of the San Diego skyline and bay)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 2,
-        "title": "Balboa Park & San Diego Zoo",
-        "category": "restaurant",
-        "description": "Breakfast: Harbor Breakfast (American breakfast options)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 2,
-        "title": "Balboa Park & San Diego Zoo",
-        "category": "activity",
-        "description": "Visit Balboa Park (multiple museums, gardens, and attractions)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 2,
-        "title": "Balboa Park & San Diego Zoo",
-        "category": "restaurant",
-        "description": "Lunch: The Prado at Balboa Park (American cuisine)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 2,
-        "title": "Balboa Park & San Diego Zoo",
-        "category": "activity",
-        "description": "Spend the afternoon at the San Diego Zoo (inside Balboa Park)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 2,
-        "title": "Balboa Park & San Diego Zoo",
-        "category": "restaurant",
-        "description": "Dinner: The Blind Burro (Mexican cuisine, close to Best Western Island Palms)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "hotel",
-        "description": "Check out of Best Western Island Palms"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "hotel",
-        "description": "Check into Fairfield Old Town"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "activity",
-        "description": "Explore Old Town San Diego State Historic Park (historic sites, museums, shopping)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "restaurant",
-        "description": "Lunch: Old Town Mexican Cafe (traditional Mexican dishes)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "activity",
-        "description": "Visit the Whaley House Museum (historic home with guided tours)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 3,
-        "title": "Check out & Explore Old Town San Diego",
-        "category": "restaurant",
-        "description": "Dinner: Cafe Coyote (Mexican cuisine with a festive atmosphere)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "restaurant",
-        "description": "Breakfast: Farmer's Table in Little Italy (farm-to-table breakfast options)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "activity",
-        "description": "Visit the USS Midway Museum (historic aircraft carrier and museum)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "activity",
-        "description": "Explore Seaport Village (shopping, dining, and entertainment)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "restaurant",
-        "description": "Lunch: Fish Market (fresh seafood near Seaport Village)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "activity",
-        "description": "Relax at Embarcadero Marina Park (green space by the water)"
-    },
-    {
-        "client": "",
-        "trip": "",
-        "tip": "",
-        "start": "",
-        "day": 4,
-        "title": "USS Midway Museum & Seaport Village",
-        "category": "restaurant",
-        "description": "Dinner: Barra Barra Saloon (Mexican cuisine in Old Town)"
-    }
-]
+ {
+   "client": "Janie",
+   "trip": "London",
+   "tip": "You can use the London Underground, buses, and Uber for more convenience. Enjoy your stay in London!",
+   "start": "5/16/2023",
+   "day": "1",
+   "title": "Arrival & Explore Around Premier Inn London City hotel",
+   "category": "hotel",
+   "description": "Check into Premier Inn London City hotel $124.8 CAD"
+ },
+ {
+   "client": "Janie",
+   "trip": "London",
+   "tip": "The Tower of London is a must-see historical site.",
+   "start": "5/16/2023",
+   "day": "1",
+   "title": "Visit Tower of London",
+   "category": "attraction",
+   "description": "Admission: Adult £29.90 ($48.95 CAD)"
+ },
+ {
+   "client": "Janie",
+   "trip": "London",
+   "tip": "The West End has a variety of shows to choose from, such as \"Frozen the Musical\" and \"The Book of Mormon\". Tickets can vary in price.",
+   "start": "5/16/2023",
+   "day": "1",
+   "title": "Attend a West End show",
+   "category": "entertainment",
+   "description": "Tickets from £18.00 ($29.46 CAD)"
+ },
+ {
+   "client": "Janie",
+   "trip": "Reykjavik",
+   "tip": "The Hallgrimskirkja Church is a beautiful architectural landmark that offers stunning views of the city from the top.",
+   "start": "5/17/2023",
+   "day": "2",
+   "title": "Visit Hallgrimskirkja Church",
+   "category": "attraction",
+   "description": "Admission: Adult 990 ISK ($9.61 CAD)"
+ },
+ {
+   "client": "Janie",
+   "trip": "Reykjavik",
+   "tip": "Consider dining at the Kol Restaurant, which offers a variety of menus and dishes to choose from.",
+   "start": "5/17/2023",
+   "day": "2",
+   "title": "Have dinner at Kol Restaurant",
+   "category": "food",
+   "description": "Meals from 3.390 ISK to 13.990 ISK ($32.88 to $135.70 CAD)"
+ },
+ {
+   "client": "Janie",
+   "trip": "Reykjavik",
+   "tip": "The Hotel Cabin is a budget-friendly option with a good location.",
+   "start": "5/17/2023",
+   "day": "2",
+   "title": "Stay at Hotel Cabin",
+   "category": "hotel",
+   "description": "Check into Hotel Cabin $105.05 CAD"
+ },
+ {
+   "client": "Janie",
+   "trip": "Oslo",
+   "tip": "The Viking Ship Museum is a fascinating look into Norway's Viking history.",
+   "start": "5/18/2023",
+   "day": "3",
+   "title": "Visit Viking Ship Museum",
+   "category": "attraction",
+   "description": "Admission: Adult 120 NOK ($14.42 CAD)"
+ },
+ {
+   "client": "Janie",
+   "trip": "Oslo",
+   "tip": "Hotel options vary widely in Oslo, so consider your budget and location preferences when booking.",
+   "start": "5/18/2023",
+   "day": "3",
+   "title": "Choose a hotel in Oslo",
+   "category": "hotel",
+   "description": "Hotel prices vary"
+ },
+ {
+   "client": "Janie",
+   "trip": "Flights",
+   "tip": "The cost of flights can vary widely depending on the time of booking and the specific airlines. The prices listed here are based on British Airways' prices for flights from London to Reykjavik and from Reykjavik to Oslo.",
+   "start": "5/16/2023",
+   "day": "03-Jan",
+   "title": "Book flights",
+   "category": "transport",
+   "description": "Flights: London to Reykjavik £83 ($107.26 CAD), Reykjavik to Oslo £83 ($107.26 CAD)"
+ }
+ 
