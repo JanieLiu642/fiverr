@@ -114,8 +114,9 @@ li {
     align-items:flex-start!important;
 }
 li img {
-    width:13px;
+    width:18px;
     margin-right:12px;
+    padding-top:2px;
 }
 li p {
     line-height:1.5;
