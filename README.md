@@ -1,6 +1,6 @@
-1. Sign in Github and get control of this project holder.
+1. Sign in and get control of this project holder.
 
-2. Download data.csv into your local folder and key in the content from GPT into respective columns. The category column: restaurant, hotel, transport, activity
+2. Download data.csv into the local folder and key in the content from GPT into respective columns. The category column: restaurant, hotel, transport, activity
 
 3. Go to https://www.convertcsv.com/csv-to-json.htm to upload the data.csv and convert it into data.json. 
 
