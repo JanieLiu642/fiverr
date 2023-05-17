@@ -69,14 +69,13 @@ tip p {
     line-height:1.5;
 }
 main {
-    padding:30px 0;
+    padding:0 0 30px;
     width:100%;
 }
 day {
     align-items:flex-start!important;
     width:650px;
-    margin:0 auto;
-    padding-bottom:30px;
+    margin:30px auto 0;
 }
 date {
     align-items:flex-end!important;
