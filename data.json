@@ -1,172 +1,322 @@
 [
  {
-   "client": "Client",
-   "trip": "London",
-   "tip": "You can use the London Underground, buses, and Uber for more convenience. Enjoy your stay in London!",
+   "client": "Janie",
+   "trip": "Northern Europe",
+   "tip": "Total Estimated Cost: $2,922 CAD (per person) Please note that prices may vary depending on booking dates, hotel availability, and any additional activities or preferences you might have. ",
    "start": "5/16/2023",
-   "day": "1",
-   "title": "Arrival & Explore Around Premier Inn London City hotel",
-   "category": "hotel",
-   "description": "Check into Premier Inn London City hotel $124.8 CAD"
- },
- {
-   "client": "Client",
-   "trip": "London",
-   "tip": "The Tower of London is a must-see historical site.",
-   "start": "5/16/2023",
-   "day": "1",
-   "title": "Visit Tower of London",
-   "category": "attraction",
-   "description": "Admission: Adult £29.90 ($48.95 CAD)"
- },
- {
-   "client": "Client",
-   "trip": "London",
-   "tip": "The West End has a variety of shows to choose from, such as \"Frozen the Musical\" and \"The Book of Mormon\". Tickets can vary in price.",
-   "start": "5/16/2023",
-   "day": "1",
-   "title": "Attend a West End show",
-   "category": "entertainment",
-   "description": "Tickets from £18.00 ($29.46 CAD)"
- },
- {
-   "client": "Client",
-   "trip": "Reykjavik",
-   "tip": "The Hallgrimskirkja Church is a beautiful architectural landmark that offers stunning views of the city from the top.",
-   "start": "5/17/2023",
-   "day": "2",
-   "title": "Visit Hallgrimskirkja Church",
-   "category": "attraction",
-   "description": "Admission: Adult 990 ISK ($9.61 CAD)"
- },
- {
-   "client": "Client",
-   "trip": "Reykjavik",
-   "tip": "Consider dining at the Kol Restaurant, which offers a variety of menus and dishes to choose from.",
-   "start": "5/17/2023",
-   "day": "2",
-   "title": "Have dinner at Kol Restaurant",
-   "category": "food",
-   "description": "Meals from 3.390 ISK to 13.990 ISK ($32.88 to $135.70 CAD)"
- },
- {
-   "client": "Client",
-   "trip": "Reykjavik",
-   "tip": "The Hotel Cabin is a budget-friendly option with a good location.",
-   "start": "5/17/2023",
-   "day": "2",
-   "title": "Stay at Hotel Cabin",
-   "category": "hotel",
-   "description": "Check into Hotel Cabin $105.05 CAD"
- },
- {
-   "client": "Client",
-   "trip": "Oslo",
-   "tip": "The Viking Ship Museum is a fascinating look into Norway's Viking history.",
-   "start": "5/18/2023",
-   "day": "3",
-   "title": "Visit Viking Ship Museum",
-   "category": "attraction",
-   "description": "Admission: Adult 120 NOK ($14.42 CAD)"
- },
- {
-   "client": "Client",
-   "trip": "Oslo",
-   "tip": "Hotel options vary widely in Oslo, so consider your budget and location preferences when booking.",
-   "start": "5/18/2023",
-   "day": "3",
-   "title": "Choose a hotel in Oslo",
-   "category": "hotel",
-   "description": "Hotel prices vary"
- },
- {
-   "client": "Client",
-   "trip": "Flights",
-   "tip": "The cost of flights can vary widely depending on the time of booking and the specific airlines. The prices listed here are based on British Airways' prices for flights from London to Reykjavik and from Reykjavik to Oslo.",
-   "start": "5/16/2023",
-   "day": "03-Jan",
-   "title": "Book flights",
-   "category": "transport",
-   "description": "Flights: London to Reykjavik £83 ($107.26 CAD), Reykjavik to Oslo £83 ($107.26 CAD)"
+   "day": 1,
+   "title": "Arrival in London",
+   "category": "Hotel",
+   "description": "Check into Premier Inn London City ($130 CAD per night)"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "",
+   "day": 1,
    "title": "",
-   "category": "",
-   "description": ""
+   "category": "Restaurant",
+   "description": "Lunch at Dishoom"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "",
+   "day": 1,
    "title": "",
-   "category": "",
-   "description": ""
+   "category": "Activity",
+   "description": "Visit the British Museum"
  },
  {
-   "client": "Please note that these calculations are based on the specific prices and exchange rates",
+   "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "",
+   "day": 1,
    "title": "",
-   "category": "",
-   "description": ""
+   "category": "Restaurant",
+   "description": "Dinner at Flat Iron"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "4",
-   "title": "USS Midway Museum & Seaport Village",
-   "category": "activity",
-   "description": "Visit the USS Midway Museum (historic aircraft carrier and museum)"
+   "day": 1,
+   "title": "",
+   "category": "Activity",
+   "description": "Evening stroll along the River Thames"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "4",
-   "title": "USS Midway Museum & Seaport Village",
-   "category": "activity",
-   "description": "Explore Seaport Village (shopping, dining, and entertainment)"
+   "day": 2,
+   "title": "Exploring London",
+   "category": "Hotel",
+   "description": "Premier Inn London City"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "4",
-   "title": "USS Midway Museum & Seaport Village",
-   "category": "restaurant",
-   "description": "Lunch: Fish Market (fresh seafood near Seaport Village)"
+   "day": 2,
+   "title": "",
+   "category": "Activity",
+   "description": "Visit the Tower of London ($35 CAD per person)"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "4",
-   "title": "USS Midway Museum & Seaport Village",
-   "category": "activity",
-   "description": "Relax at Embarcadero Marina Park (green space by the water)"
+   "day": 2,
+   "title": "",
+   "category": "Activity",
+   "description": "Walk across the Tower Bridge"
  },
  {
    "client": "",
    "trip": "",
    "tip": "",
    "start": "",
-   "day": "4",
-   "title": "USS Midway Museum & Seaport Village",
-   "category": "restaurant",
-   "description": "Dinner: Barra Barra Saloon (Mexican cuisine in Old Town)"
+   "day": 2,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Lunch at Borough Market"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 2,
+   "title": "",
+   "category": "Activity",
+   "description": "Visit Tate Modern"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 2,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Dinner at Honest Burgers"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 2,
+   "title": "",
+   "category": "Activity",
+   "description": "Catch a West End show ($100 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 3,
+   "title": "London to Reykjavik",
+   "category": "Transport",
+   "description": "Flight from London to Reykjavik ($200 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 3,
+   "title": "",
+   "category": "Hotel",
+   "description": "Check into Hotel Cabin ($120 CAD per night)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 3,
+   "title": "",
+   "category": "Activity",
+   "description": "Visit Hallgrimskirkja Church (free entry, tower admission $12 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 3,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Dinner at Icelandic Street Food"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 4,
+   "title": "Exploring Reykjavik",
+   "category": "Hotel",
+   "description": "Hotel Cabin"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 4,
+   "title": "",
+   "category": "Activity",
+   "description": "Golden Circle Tour ($70 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 4,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Lunch at a local cafe on the tour"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 4,
+   "title": "",
+   "category": "Activity",
+   "description": "Visit Blue Lagoon ($100 CAD per person, including transport)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 4,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Dinner at Sæta Svínið Gastropub"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 5,
+   "title": "Reykjavik to Oslo",
+   "category": "Transport",
+   "description": "Flight from Reykjavik to Oslo ($200 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 5,
+   "title": "Reykjavik to Oslo",
+   "category": "Hotel",
+   "description": "Check into Anker Hotel ($110 CAD per night)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 5,
+   "title": "Reykjavik to Oslo",
+   "category": "Activity",
+   "description": "Visit Vigeland Sculpture Park"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 5,
+   "title": "Reykjavik to Oslo",
+   "category": "Restaurant",
+   "description": "Dinner at Fiskeriet Youngstorget"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 6,
+   "title": "Exploring Oslo",
+   "category": "Hotel",
+   "description": "Anker Hotel"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 6,
+   "title": "",
+   "category": "Activity",
+   "description": "Visit the Viking Ship Museum ($15 CAD per person)"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 6,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Lunch at Kaffistova"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 6,
+   "title": "",
+   "category": "Activity",
+   "description": "Explore the Akershus Fortress"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 6,
+   "title": "",
+   "category": "Restaurant",
+   "description": "Dinner at Døgnvill Burger Tjuvholmen"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 7,
+   "title": "Departure from Oslo",
+   "category": "Hotel",
+   "description": "Anker Hotel"
+ },
+ {
+   "client": "",
+   "trip": "",
+   "tip": "",
+   "start": "",
+   "day": 7,
+   "title": "",
+   "category": "Transport",
+   "description": "Flight back to Canada"
  }
 ]
