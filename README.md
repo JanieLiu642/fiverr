@@ -6,4 +6,4 @@
 
 4. Delete the old data.json from this project folder. Click Add file to upload the new data.json file.
 
-5. Wait for a minute and open https://janieliu642.github.io/fiverr. Ctrl + P to print the page into pdf.
+5. Open https://janieliu642.github.io/fiverr. Ctrl + P to print the page into pdf.
