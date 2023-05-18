@@ -1,5 +1,5 @@
 $.getJSON("data.json", function(trip) {
-    const name = 'Client'; //trip[0]['client']
+    const name = trip[0]['client'];
     const symbol = name.slice(-1) === 's' ? "'" : "'s";
     const tripTitle = trip[0]['trip'];
     const startDate = trip[0]['start'];
