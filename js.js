@@ -7,7 +7,7 @@ $.getJSON("data.json", function(trip) {
     const endDate = addDay(new Date(startDate), duration - 1);
     const tip = trip[0]['tip'];
 
-    $('trip').text(`${name}${symbol} Itinerary to ${tripTitle}`);
+    $('trip').text(`${name}${symbol} ${tripTitle} Itinerary`);
     $('timeline').text(`${obtainDate(new Date(startDate))} - ${obtainDate(endDate)}`);
     $('tip > p').text(`${tip}`);
 
